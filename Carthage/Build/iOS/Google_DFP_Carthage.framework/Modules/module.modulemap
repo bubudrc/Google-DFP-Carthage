@@ -1,0 +1,6 @@
+framework module Google_DFP_Carthage {
+  umbrella header "Google_DFP_Carthage.h"
+
+  export *
+  module * { export * }
+}
